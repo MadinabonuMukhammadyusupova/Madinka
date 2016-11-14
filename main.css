@@ -1,0 +1,21 @@
+body{
+     background:url(keker.jpg) no-repeat center center fixed;
+	font-family: sans-serif;
+	text-align:center;
+     width:90%;
+     height:40;
+       -webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover; 
+     position:absolute;
+     color:green;
+     
+}
+h2{
+	font-style:bold; 
+	color:purple;
+   
+}
+h1{
+	color:red;
+}

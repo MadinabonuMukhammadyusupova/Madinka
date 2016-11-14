@@ -1,0 +1,19 @@
+
+h1{
+	color:red;
+	font-family:courier;
+}
+body{
+        font-size:15px;
+	background:url(IMG_20161108_010241.jpg) no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover; 
+	padding:5px 6px;
+}
+p{
+    color:	#FF00FF;
+}
+ul{
+       	color:	#FF00FF;
+}
